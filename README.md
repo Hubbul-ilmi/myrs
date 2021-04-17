@@ -1,2 +1,1 @@
-# rumahsakit
 # rekam-medis
